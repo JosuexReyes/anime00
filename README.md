@@ -1,2 +1,2 @@
 # anime00
-This is test trials with the bare minimum experience
+These are the test trials with the bare minimum experience
